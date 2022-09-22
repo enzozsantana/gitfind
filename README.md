@@ -1,6 +1,6 @@
 # GitFind
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Ferramenta que busca qualquer usuário do GitHub pelo seu username
 
 ## Available Scripts
 
