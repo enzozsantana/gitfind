@@ -1,6 +1,8 @@
-# GitFind
+# GitFind 🔎👤
 
 Ferramenta que busca qualquer usuário do GitHub pelo seu username
+
+
 
 ## Available Scripts
 
