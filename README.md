@@ -1,6 +1,6 @@
 # GitFind 🔎👤
 
-Ferramenta que busca qualquer usuário do GitHub pelo seu username
+Ferramenta que busca qualquer usuário do GitHub pelo seu username. Desenvolvida durante o Bootcamp "Formação React Developer", da DIO.
 
 ![gitfind-1](https://user-images.githubusercontent.com/89364741/191794175-93d14e35-82da-42a5-a02c-fd317e4ec3e8.png)
 ![gitfind-2](https://user-images.githubusercontent.com/89364741/191794182-d5946753-5ee4-4b74-bed5-9cb94f1b45b8.png)
