@@ -5,6 +5,17 @@ Ferramenta que busca qualquer usuário do GitHub pelo seu username
 ![gitfind-1](https://user-images.githubusercontent.com/89364741/191794175-93d14e35-82da-42a5-a02c-fd317e4ec3e8.png)
 ![gitfind-2](https://user-images.githubusercontent.com/89364741/191794182-d5946753-5ee4-4b74-bed5-9cb94f1b45b8.png)
 
+## 🔗 Link para acessar
+
+<a href="https://gitfind-enzo.netlify.app" target="_blank">GitFind</a>
+
+## 🖥 Tecnologias 
+
+- HTML
+- CSS
+- JavaScript
+- ReactJS
+- Git e GitHub
 
 ## Available Scripts
 
